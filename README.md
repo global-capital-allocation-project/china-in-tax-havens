@@ -2,4 +2,4 @@
 
 This repository contains replication code and data for the paper "China in Tax Havens" (AEA Papers and Proceedings, 2023) by Christopher Clayton, Antonio Coppola, Amanda Dos Santos, Matteo Maggiori, Jesse Schreger. 
 
-Please see the README.pdf file for a description of the files contained in this replication package.
+Please see the `README.pdf` file for a description of the files contained in this replication package.
